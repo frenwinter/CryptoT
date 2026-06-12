@@ -1,4 +1,3 @@
-<!-- fallback_CryptoT_20260612181116_37299 -->
 
 # CryptoT: Decentralized-identity-driven CryptoTX, integrating scalable blockchain architecture with intelligent distributed verification-tool featuring Secure-multi-party-computation capabilities Implementation
 > Advanced typescript solution leveraging modern architecture patterns and cutting-edge technology.
